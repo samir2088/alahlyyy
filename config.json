@@ -1,0 +1,35 @@
+[{
+		"title": "ملخّصات و أهداف",
+		"drawable": "",
+		"submenu": "",
+		"iap": false,
+		"tabs": [
+
+			{
+				"title": "آخر الأخبار",
+				"provider": "youtube",
+				"arguments": [
+					"UCArUYyYBngpwiklYtqZPPfg",
+					"channel"
+
+				]
+			},
+
+			{
+				"title": "الدوري التونسي",
+				"provider": "youtube",
+				"arguments": [
+					"PLtBfZ7MNAEp9NLYNixYbR3VCSPVGtA2u-",
+					"playlist"
+
+				]
+			},
+			{
+				"title": "TheSProd1",
+				"provider": "youtube",
+				"arguments": [
+					"UCJvLaCFxo-IwqHCP9q1SDAg",
+					"channel"
+
+				]
+			},
