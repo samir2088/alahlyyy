@@ -6,26 +6,26 @@
 		"tabs": [
 
 			{
-				"title": "آخر الأخبار",
+				"title": "Al Ahly SC",
 				"provider": "youtube",
 				"arguments": [
-					"UCArUYyYBngpwiklYtqZPPfg",
+					"UCA86pBGxVPZGrTeTecOtjew",
 					"channel"
 
 				]
 			},
 
 			{
-				"title": "الدوري التونسي",
+				"title": "Modern koora",
 				"provider": "youtube",
 				"arguments": [
-					"PLtBfZ7MNAEp9NLYNixYbR3VCSPVGtA2u-",
-					"playlist"
+					"UC_29ZfH_9f7ZsebzMFQ6cxg",
+					"channel"
 
 				]
 			},
 			{
-				"title": "TheSProd1",
+				"title": "Al AHLY TV",
 				"provider": "youtube",
 				"arguments": [
 					"UCJvLaCFxo-IwqHCP9q1SDAg",
@@ -35,11 +35,11 @@
 			},
 			
 		  {
-				"title": "برامج رياضية",
+				"title": "تعليم أون لاين ",
 				"provider": "youtube",
 				"arguments": [
-					"PLmQHtil5-0QW9JaQ4oHqQA3T9QMy7Xuiv",
-					"playlist"
+					"UCsKwQv4etTbOP63Ghn2gziQ",
+					"channel"
 
 				]
 			},
@@ -57,7 +57,7 @@
 				"provider": "youtube",
 				"arguments": [
 					"PLtBfZ7MNAEp9CYiDlxkkLJw8Pu4bH7iMj",
-					"playlist"
+					"channel"
 
 				]
 			},
@@ -155,7 +155,7 @@
 			"title": "webview",
 			"provider": "webview",
 			"arguments": [
-				"http://www.est.org.tn/est.php"
+				"http://alahlyegypt.com/"
 			]
 		}]
 	},
