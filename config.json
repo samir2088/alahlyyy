@@ -230,6 +230,19 @@
 			]
 		}]
 	},
+ {
+		"title": "رابط 4 مباشر",
+		"drawable": "",
+		"submenu": "جودة عالية ",
+		"iap": false,
+		"tabs": [{
+			"title": "webview",
+			"provider": "webview",
+			"arguments": [
+				"https://aflam4you.tv/browse-films-videos-1-date.html/"
+			]
+		}]
+	},
 
 	{
 		"title": "كرة القدم",
