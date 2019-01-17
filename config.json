@@ -129,6 +129,15 @@
 
 				]
 			},
+			{
+				"title": "Maroc sport",
+				"provider": "youtube",
+				"arguments": [
+					"UCTtpwRadkDzQtmQb9hu2o9w",
+					"channel"
+
+				]
+			},
       {
 				"title": "الدوري الجزائري",
 				"provider": "youtube",
